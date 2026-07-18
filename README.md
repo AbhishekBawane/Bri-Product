@@ -157,7 +157,7 @@ Add screenshots of the application here.
 
 ### Vercel
 
-    ( [https://bri-product.vercel.app/](https://bri-product-53s1c0lno-crio-abhishek-bawane.vercel.app?_vercel_share=KSQfxw9xoufNbNA3jc1kotz3EFN2Cxsm) )
+    ( [[https://bri-product.vercel.app/](https://bri-product-53s1c0lno-crio-abhishek-bawane.vercel.app?_vercel_share=KSQfxw9xoufNbNA3jc1kotz3EFN2Cxsm)](https://bri-product.vercel.app?_vercel_share=FNDfAXemb2wsfKHgO1fB6le1wtQf8LYA) )
 -----
 
 ## Author
