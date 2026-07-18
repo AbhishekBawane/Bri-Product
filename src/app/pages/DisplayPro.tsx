@@ -53,8 +53,8 @@ const filteredProducts = products.filter((product) => {
     return(
            <div className="container-sm">
                  <div className="row g-3">
-                     {filteredProducts.map((product, index) =>(
-                        <Card key={index}  product={product} />
+                     {filteredProducts.map((product) =>(
+                        <Card key={product._id}  product={product} />
                      ))
                      }
                  </div>
